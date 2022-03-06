@@ -1,0 +1,118 @@
+*{
+    margin: 15px;
+    padding: 0px;  
+}
+
+.Park{
+    text-align: center;
+}
+.Park p{
+    text-align: center;
+    padding: 20px;
+    color: rgb(86, 128, 218);
+    background-color: rgb(59, 58, 61);
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 400;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+
+.parkname{
+    text-align: center;
+}
+.parkname p{
+    text-align: center;
+    padding: 10px;
+    color: rgb(46, 48, 51);
+    background-color: rgb(204, 217, 223);
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 400;
+    border-radius: 12px;
+    display: inline-block;
+
+}
+
+
+
+
+.Bazar{
+    background-image: url(../img/coxs-bazar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    border-radius: 6px;
+
+}
+
+
+
+
+
+
+
+.Bisnakandi{
+    background-image: url(../img/bisnakandi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    border-radius: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+.Ratargul{
+    background-image: url(../img/ratargul-swamp-forest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    border-radius: 6px;
+}
+
+
+
+
+
+.boga{
+    background-image: url(../img/boga-lake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    border-radius: 6px;
+}
+
+
+
+
+
+.vatiary{
+    background-image: url(../img/vatiyari-lake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    border-radius: 6px;
+}
+
+.pp p{
+  font-size: 15px;
+  color: #fff;
+  background-color: rgb(128, 123, 123);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  padding: 20px;
+  border-radius: 4px;
+}
